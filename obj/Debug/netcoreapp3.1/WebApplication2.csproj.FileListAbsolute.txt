@@ -1,0 +1,423 @@
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\PagedList.Core.Mvc.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\X.PagedList.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Add.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Delete.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Edit.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Index.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Add.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Delete.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Edit.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Index.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\Index.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\timgia.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\timsanpham.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\TrangChiTiet\Index.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.genruntimeconfig.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\gioithieu.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\libman.json
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Quanlyuser\Index.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\QuanLyUser\Create.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\GoogleResponse.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CoreCompileInputs.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Create.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Delete.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Details.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Edit.cshtml.g.cs
+E:\vs\lab\tái bản lần 11\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Index.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\libman.json
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\PagedList.Core.Mvc.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\X.PagedList.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Schoool\DA1\doantemp\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CoreCompileInputs.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Create.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Delete.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Details.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Edit.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Hoadons\Index.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Add.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Delete.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Edit.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Index.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\QuanLyUser\Create.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\QuanLyUser\Index.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Add.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Delete.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Edit.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Index.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\GoogleResponse.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\Index.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\gioithieu.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\timgia.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\timsanpham.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\TrangChiTiet\Index.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.genruntimeconfig.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\timloaisp.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductList.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\sortbyBracw.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\sortbyEar.cshtml.g.cs
+D:\Schoool\DA1\doantemp\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\sortbyNeck.cshtml.g.cs

@@ -1,0 +1,227 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+.top-nav {
+    background-color: #f1f1f1;
+    height: 40px;
+}
+.phantrang {
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+    padding: .5em 1em;
+    border-radius: 1em;
+    color: #888;
+    background-color: #eee;
+    transition-duration: .2s;
+    transform: translateY(1em);
+    height: 40px;
+    border-left: 2px solid #ff9c00;
+    border-right: 2px solid #ff9c00;
+    font-size: 15px;
+}
+.item-top-nav {
+    height: 40px;
+}
+
+.social-top-nav {
+    float: left;
+}
+
+    .social-top-nav a {
+        text-align: center;
+        font-size: 13px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        background-color: #f1f1f1;
+        transition-duration: 0.5s;
+    }
+
+        .social-top-nav a:hover {
+            color: #fff !important;
+        }
+
+.fa-facebook:hover {
+    background: #3B5998;
+}
+
+.fa-twitter:hover {
+    background: #55ACEE;
+}
+
+.fa-google:hover {
+    background: #dd4b39;
+}
+
+.fa-youtube:hover {
+    background: #bb0000;
+}
+
+.menu-top-nav {
+    height: 40px;
+}
+
+    .menu-top-nav ul {
+        height: 40px;
+    }
+
+        .menu-top-nav ul li a {
+            color: gray;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+            .menu-top-nav ul li a:hover {
+                color: black;
+            }
+
+                .menu-top-nav ul li a:hover i {
+                    color: blue;
+                }
+
+@media only screen and (max-width: 768px) {
+    .social-top-nav {
+        float: none;
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .menu-top-nav {
+        display: none;
+    }
+}
+
+
+/* search*/
+
+.logo {
+    float: none;
+    height: 55px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+    .logo:hover {
+        transform: scale(1.05)
+    }
+
+    .logo img {
+        height: 100%;
+        vertical-align: middle;
+        animation: example 5s infinite ease-in-out;
+    }
+
+
+/* Standard syntax */
+
+@keyframes example {
+    35%, 100% {
+        transform: scale(1);
+    }
+
+    10% {
+        transform: rotateX(360deg) scale(1.15);
+    }
+}
+
+.a-search {
+    color: black;
+    font-size: 26px;
+    font-weight: bold;
+    height: auto;
+    width: 50px;
+    margin-left: 10px;
+}
+
+.acount-cart {
+    font-size: 19px;
+    margin-left: 20px;
+}
+
+    .acount-cart a {
+        color: #565 !important;
+    }
+
+        .acount-cart a i:hover {
+            color: #546;
+        }
+
+.khungSanPham2 {
+    width: 100%;
+    border: 2px solid #004c70;
+}
+
+    .khungSanPham2 h3.tenKhung2 {
+        line-height: 1.5em;
+        font-size: 1.5em;
+        text-align: center;
+        margin: 0 auto;
+        border-radius: 1em;
+        color: white;
+        transform: translateY(-0.75em);
+        background-image: linear-gradient(120deg, #42bcf4 0%, #004c70 50%, #42bcf4 100%);
+    }
+
+.allProduct ul li {
+    float: left;
+    margin-left: 5px;
+}
+
+.clear {
+    clear: both;
+}
+/*tao dropdowlist*/
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+    /* ĐỔi màu nền khi hover và focus Dropdown button */
+    .dropbtn:hover, .dropbtn:focus {
+        background-color: #3e8e41;
+    }
+
+/* Định dạng các thẻ bao bọc các menu */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content, mặc định sẽ được ẩn đi */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    /* Định dạng các thẻ a là các menu con */
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        /* Thay đổi màu nền khi các menu con được hover */
+        .dropdown-content a:hover {
+            background-color: #f1f1f1
+        }
+
+/* Hiển thị menu, ta sẽ dùng javascript để thêm class này vào các nôi dung cần được hiển thị */
+.show {
+    display: block;
+}

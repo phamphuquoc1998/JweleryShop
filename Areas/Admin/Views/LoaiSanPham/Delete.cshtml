@@ -1,0 +1,36 @@
+﻿@model WebApplication1.Entities.Loaisanpham
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="container d-flex justify-content-center">
+        <div class="w-50 left">
+
+            <h4 class="text-center table w-100"><b>Xóa Loại Sản Phẩm</b> </h4>
+            <table class="table">
+                <tr class="text-center">
+                    <td><b>Tên Loại SP:</b></td>
+                    <td>@Html.DisplayFor(model => model.TenLSP)</td>
+                </tr>
+                <tr class="text-center">
+                    <td><b>Hình Ảnh:</b></td>
+                    <td><img src="~/imgs/menuProducts/@Html.DisplayFor(model => model.HinhAnh)" /></td>
+                </tr>
+                <tr class="text-center">
+                    <td><b>Mô Tả:</b></td>
+                    <td>@Html.DisplayFor(model => model.MoTa)</td>
+                </tr>
+            </table>
+            <div class="w-100 mt-2 d-flex justify-content-end ">
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="MaLSP" />
+                    <input  type="submit" value="Delete" class="btn btn-danger" /> |
+                    <a class="btn btn-primary" asp-action="Index">Back to List</a>
+                </form>
+
+            </div>
+
+        </div>
+    </div>

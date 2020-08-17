@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@model List<WebApplication1.Entities.Loaisanpham>;
+
+<form asp-action="Add" asp-controller="SanPham" method="post" enctype="multipart/form-data">
+    <div class="container d-flex justify-content-center">
+        <div class="w-50 left">
+
+            <h4 class="text-center table w-100"><b>Thêm Sản Phẩm</b> </h4>
+            <div class="w-100">
+                <select name="malsp" class="form-control">
+                    @foreach (var item in Model)
+                    {
+                        <option  class="form-control" value="@item.MaLSP">@item.TenLSP</option>
+                    }
+                </select>
+            </div>
+            <table class="table table-bordered">
+                <tr class="text-center">
+                    <td><b>Tên SP:</b></td>
+                    <td><input name="tensp"  required type="text" class="form-control"></td>
+                </tr>
+
+                <tr class="text-center">
+                    <td><b>Đơn Giá:</b></td>
+                    <td><input name="dongia" required type="number" class="form-control"></td>
+                </tr>
+                <tr class="text-center">
+                    <td><b>Số Lượng:</b></td>
+                    <td><input name="soluong" required type="number" class="form-control"></td>
+                </tr>
+                <tr class="text-center">
+                    <td><b>Hình Ảnh:</b></td>
+                    <td><input type="file" name="photo" class="form-control"></td>
+                </tr>
+
+            </table>
+
+
+            <div class="w-100 mt-2 d-flex justify-content-end ">
+                <button type='submit' class="btn btn-primary mr-4">Thêm</button>
+                <a href="index" class="btn btn-danger mr-3">Hủy</a>
+
+            </div>
+
+        </div>
+    </div>
+</form>
+

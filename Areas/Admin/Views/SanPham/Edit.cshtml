@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@model WebApplication1.Entities.Sanpham
+
+<div class="container d-flex justify-content-center">
+    <div class="w-50">
+        <div class="row d-flex justify-content-center">
+            <h4 class="mb-3">Cập Nhật Thông Tin Loại Sản Phẩm</h4>
+            <div class="">
+                <form asp-action="Edit" asp-controller="SanPham" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="MaSP" />
+                    <div class="form-group">
+                        <label asp-for="TenSP" class="control-label"></label>
+                        <input asp-for="TenSP" class="form-control" />
+                        <span asp-validation-for="TenSP" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DonGia" class="control-label"></label>
+                        <input asp-for="DonGia" type="number" class="form-control" />
+                        <span asp-validation-for="DonGia" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="SoLuong" class="control-label"></label>
+                        <input asp-for="SoLuong" type="number" class="form-control" />
+                        <span asp-validation-for="SoLuong" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="HinhAnh" class="control-label"></label>
+                        <input type="file" name="photo1" class="form-control" />
+                        @*<img src="~/imgs/menuProducts/@Html.DisplayFor(model=>model.HinhAnh)" />*@
+                        <span asp-validation-for="HinhAnh" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+
+
+        </div>
+        <div>
+            <a asp-action="Index">Back to List</a>
+            @if (ViewBag.Status == 1)
+            {
+                <div>
+                    <b style="color:red;">Đã Cập Nhật Lại Nội Dung !</b>
+                </div>
+            }
+        </div>
+
+    </div>
+
+</div>

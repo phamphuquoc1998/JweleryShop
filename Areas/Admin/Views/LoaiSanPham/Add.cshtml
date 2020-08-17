@@ -1,0 +1,35 @@
+﻿
+@{
+
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<form asp-action="Add" asp-controller="LoaiSanPham" method="post" enctype="multipart/form-data">
+    <div class="container d-flex justify-content-center">
+        <div class="w-50 left">
+
+            <h4 class="text-center table w-100"><b>Thêm Loại Sản Phẩm</b> </h4>
+            <table class="table">
+                <tr class="text-center">
+                    <td><b>Tên Loại SP:</b></td>
+                    <td><input  name="tenlsp" required type="text" class="form-control"></td>
+                </tr>
+                <tr class="text-center">
+                    <td><b>Hình Ảnh:</b></td>
+                    <td><input type="file"  name="photo" class="form-control"></td>
+                </tr>
+                <tr class="text-center">
+                    <td><b>Mô Tả:</b></td>
+                    <td><textarea cols="40" name="mota" rows="10"></textarea></td>
+                </tr>
+            </table>
+            <div class="w-100 mt-2 d-flex justify-content-end ">
+                <button type='submit' class="btn btn-primary mr-4">Thêm</button>
+                <a href="index" class="btn btn-danger mr-3">Hủy</a>
+
+            </div>
+
+        </div>
+    </div>
+</form>

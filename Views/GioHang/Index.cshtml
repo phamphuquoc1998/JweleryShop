@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewData["Title"] = "Cart";
+}
+
+    <div class="container">
+        <h3 class="w-100 text-center"> Xác Nhận Thanh Toán Giỏ Hàng </h3>
+        <form asp-controller="GioHang" asp-action="themdonhang" method="post">
+            <table class="table table-bordered">
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+                        <input name="NguoiNhan" class="form-control" type="text" />
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Address:
+                    </td>
+                    <td>
+                        <input name="DiaChi" class="form-control" type="text" />
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        PhoneNumbaer:
+                    </td>
+                    <td>
+                        <input name="SDT" class="form-control" type="number" />
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Total:
+                    </td>
+                    <td>
+                        <input type="number" name="TongTien" readonly value="@ViewBag.total" /><small>VND</small>
+                    </td>
+
+                </tr>
+                <tr class="hide">
+                    <td>
+                        <input name="MaUser" type="text" value="@ViewBag.id" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="background-color:#aaaaaa" class="text-center"><button type="submit" class="btn btn-primary">$ Thanh Toán</button></td>
+                </tr>
+
+            </table>
+        </form>
+
+
+    </div>
+
+<table class="table-bordered table mt-5 text-center">
+    <tr style="background-color:#4caf50;color:white">
+        <th>Sản Phẩm</th>
+        <th>Hình Ảnh</th>
+        <th>Giá</th>
+        <th>Số Lượng</th>
+        <th>Thành Tiền</th>
+        <th>Xóa</th>
+    </tr>
+
+    @foreach (var item in ViewBag.cart)
+    {
+        <tr>
+            <td>@item.Sanpham.TenSP</td>
+            <td><img src="~/imgs/sanpham/@item.Sanpham.HinhAnh" width="80" height="80" /></td>
+            <td>@item.Sanpham.DonGia VND</td>
+            <td>@item.Quantity</td>
+            <td style="color:red;">
+                @(item.Sanpham.DonGia *
+item.Quantity) VDN
+            </td>
+            <td>
+                <a asp-controller="GioHang" asp-action="remove"
+                   asp-route-id="@item.Sanpham.MaSP"><i style="font-size:25px; color:red;" class="fa fa-trash"></i></a>
+            </td>
+
+        </tr>
+    }
+    <tr>
+        <td align="right" colspan="5">Tổng Tiền</td>
+        <td>
+            @ViewBag.total VND
+        </td>
+    </tr>
+    
+</table>
+
+
+<br>
+<a asp-controller="Home" asp-action="index">
+    Quay Lại
+</a>
+
+

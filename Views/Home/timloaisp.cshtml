@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "timloaisp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+
+    <div class="khungSanPham2 ">
+        <h3 class=' w-100 text-center tenKhung2'>Search By :@ViewBag.tentim</h3>
+        <div class="clear"></div>
+        <div class="p-2">
+            <div class="allProduct ">
+                <div id="demoSignalr" class="row">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-lg-3 col-md-6 mb-4">
+                            <div class="card h-100 text-center">
+                                <img class="card-img-top"
+                                     src="~/imgs/sanpham/@item.HinhAnh" alt="">
+                                <div class="card-body">
+                                    <b style="color:red;"><p class="cardtext">Giá Tiền: @item.DonGia VND</p></b>
+                                    <h5 class="cardtitle">@item.TenSP</h5>
+
+                                </div>
+                                <div class="card-footer">
+                                    <a asp-controller="TrangChiTiet"
+                                       asp-action="Index" asp-route-id="@item.MaSP" asp-route-name="@item.TenSP" class="btn btn-primary">Details</a>
+                                    <a asp-controller="GioHang" asp-action="Buy" asp-route-id="@item.MaSP" class="btn btn-info">Buy now</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <br />
+        <br />
+    </div>
+
+</div>
+<div class="clear"></div>

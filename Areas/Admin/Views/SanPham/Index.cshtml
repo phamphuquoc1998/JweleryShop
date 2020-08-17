@@ -1,0 +1,53 @@
+﻿
+@{
+
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@model List<WebApplication1.Entities.Sanpham>
+<div class="container-fuild mt-2 ">
+    <div class="row w-100 d-flex justify-content-end mt-2 ">
+        <div class="seach form-inline ">
+            <a class="btn btn-primary ml-5 mr-3" asp-controller="SanPham" asp-action="Add">Thêm</a>
+        </div>
+
+    </div>
+    <div class="row mt-2">
+        <div class="col-lg-12">
+            <h3 class="w-100 text-center">Danh Sách Sản Phẩm</h3>
+            <table class="table tex-center table-bordered">
+                <thead class="thead-light">
+                    <tr class="text-center">
+                        <th>Ma</th>
+                        <th>Ma Loai</th>
+                        <th>Ten Product</th>
+                        <th>Don Gia</th>
+                        <th>So Luong</th>
+                        <th>Hinh Anh</th>
+                        
+                        
+                   <th colspan="2">Quan Ly</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr><td>@item.MaSP</td>
+                        <td>@item.MaLSP</td>
+                        <td>@item.TenSP</td>
+                        <td>@item.DonGia</td>
+                        <td>@item.SoLuong</td>
+                        <td><img src="~/imgs/sanpham/@item.HinhAnh" width="80" height="120" /></td>
+                        
+                        <td><a class="btn btn-outline-danger" asp-controller="SanPham" asp-action="Delete" asp-route-id="@item.MaSP"><i class='fa fa-trash-o'></i> </a></td>
+
+                        <td><a class="btn btn-outline-primary" asp-controller="SanPham" asp-action="Edit" asp-route-id="@item.MaSP"><i class='fa fa-edit'></i></a></td>
+                    </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

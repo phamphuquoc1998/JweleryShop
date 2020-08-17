@@ -1,0 +1,30 @@
+﻿
+@{
+
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@model List<WebApplication1.Entities.Loaisanpham>
+
+
+<div class=" right  border-dark">
+    <div class="row w-100 d-flex justify-content-end"><a asp-controller="LoaiSanPham" asp-action="Add" style="font-size:21px;" class="btn btn-primary  mr-4">+</a> </div>
+    <h4 class="text-center w-100">Danh Sách Loại Sản Phẩm </h4>
+    <table class="table ">
+        <thead class="thead-light text-center">
+            <tr class="text-center">
+               
+                <th scope="col">Loại</th>
+                <th scope="col">Tên Loại</th>
+                <th scope="col">Hình Ảnh</th>
+                <th>Mô Tả</th>
+                <th colspan="2" scope="col">Quản Lý</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+          
+        </tbody>
+    </table>
+
+</div>
+
+
